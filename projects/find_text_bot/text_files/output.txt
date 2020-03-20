@@ -1,0 +1,3 @@
+Content of file : "Empty no more"
+Content of file : "This is text doc 2"
+Content of file : "This is test doc 3"
